@@ -1,8 +1,8 @@
 {
-  "versao": "1.4.2",
+  "versao": "1.4.3",
   "data": "2026-10-21",
   "download": "https://github.com/rameno-hash/TurboFraction-update/raw/main/turbofraction.zip",
   "notas": [
-    "Clique no ícone da extensão agora verifica se há atualização"
+    "Previsão vencida em vermelho e negrito no cartão das remessas da Lista de Entrega"
   ]
 }

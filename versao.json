@@ -1,8 +1,13 @@
 {
-  "versao": "1.4.3",
-  "data": "2026-10-21",
+  "versao": "1.5.1",
+  "data": "2026-10-22",
   "download": "https://github.com/rameno-hash/TurboFraction-update/raw/main/turbofraction.zip",
   "notas": [
-    "Previsão vencida em vermelho e negrito no cartão das remessas da Lista de Entrega"
+    "Atalhos no quadro de boas-vindas (Emissão, Recebimento, Envio, Conferir manifesto, Lista de entrega, Devolução, Performance, Pesquisar)",
+    "Vencimentos do Dia na Performance: por Circuit ou Status, data editável e grupos minimizáveis",
+    "Painel da Performance reaproveita o arquivo até a próxima atualização do Fraction",
+    "Ocorrência para até 100 remessas no campo Remessa",
+    "Consulta: NFs da mesma remessa agrupadas numa linha",
+    "Janela da extensão: link de download e Reportar erro pelo WhatsApp"
   ]
 }

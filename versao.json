@@ -1,8 +1,8 @@
 {
-  "versao": "1.4.1",
+  "versao": "1.4.2",
   "data": "2026-10-21",
   "download": "https://github.com/rameno-hash/TurboFraction-update/raw/main/turbofraction.zip",
   "notas": [
-    "Removido o botão Reimprimir etiqueta da tela de consulta da remessa"
+    "Clique no ícone da extensão agora verifica se há atualização"
   ]
 }

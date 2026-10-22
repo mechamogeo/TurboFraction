@@ -1,9 +1,8 @@
 {
-  "versao": "1.4.0",
+  "versao": "1.4.1",
   "data": "2026-10-21",
   "download": "https://github.com/rameno-hash/TurboFraction-update/raw/main/turbofraction.zip",
   "notas": [
-    "Painel de Pendências com dias parados (CUSTÓDIA por ocorrência, demais status e transferências da filial)",
-    "Aviso automático de nova versão"
+    "Removido o botão Reimprimir etiqueta da tela de consulta da remessa"
   ]
 }

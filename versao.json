@@ -1,13 +1,14 @@
 {
-  "versao": "1.5.1",
-  "data": "2026-10-22",
+  "versao": "1.5.2",
+  "data": "2026-10-23",
   "download": "https://github.com/rameno-hash/TurboFraction-update/raw/main/turbofraction.zip",
   "notas": [
-    "Atalhos no quadro de boas-vindas (Emissão, Recebimento, Envio, Conferir manifesto, Lista de entrega, Devolução, Performance, Pesquisar)",
-    "Vencimentos do Dia na Performance: por Circuit ou Status, data editável e grupos minimizáveis",
-    "Painel da Performance reaproveita o arquivo até a próxima atualização do Fraction",
-    "Ocorrência para até 100 remessas no campo Remessa",
-    "Consulta: NFs da mesma remessa agrupadas numa linha",
-    "Janela da extensão: link de download e Reportar erro pelo WhatsApp"
+    "Entrada On Time no Recebimento de Remessa (leitura contínua, erros num painel, buffer com .txt diário e arrastar arquivo)",
+    "Conferência de manifesto: Faltantes por Circuit, com peso, bairro, Produtos (NF-e) e PDF original",
+    "Mostrar Status e Vencimento do Dia consideram todas as páginas de listas",
+    "Nova Lista: janela de erros sem as mensagens de item já na lista / inválido / não localizado",
+    "Consulta: botão do Google Maps pela foto do comprovante e link CT-e/NF-e corrigido",
+    "Cartão de ocorrência menor, escolhe ENTREGA e fecha atualizando a consulta",
+    "Botão Início no cabeçalho, aviso de coletas escondido e períodos rápidos na Performance"
   ]
 }

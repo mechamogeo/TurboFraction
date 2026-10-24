@@ -1,14 +1,12 @@
 {
-  "versao": "1.5.2",
-  "data": "2026-10-23",
+  "versao": "1.5.4",
+  "data": "2026-10-24",
   "download": "https://github.com/rameno-hash/TurboFraction-update/raw/main/turbofraction.zip",
   "notas": [
-    "Entrada On Time no Recebimento de Remessa (leitura contínua, erros num painel, buffer com .txt diário e arrastar arquivo)",
-    "Conferência de manifesto: Faltantes por Circuit, com peso, bairro, Produtos (NF-e) e PDF original",
-    "Mostrar Status e Vencimento do Dia consideram todas as páginas de listas",
-    "Nova Lista: janela de erros sem as mensagens de item já na lista / inválido / não localizado",
-    "Consulta: botão do Google Maps pela foto do comprovante e link CT-e/NF-e corrigido",
-    "Cartão de ocorrência menor, escolhe ENTREGA e fecha atualizando a consulta",
-    "Botão Início no cabeçalho, aviso de coletas escondido e períodos rápidos na Performance"
+    "Lista de Entrega: botão On Time (lê os volumes um a um, adiciona à nova lista e processa com a Rota na própria janela)",
+    "On Time: leitura duplicada em amarelo, erros só da sessão e zerados ao processar, lista com até 500 leituras numeradas",
+    "On Time: cards de erro clicáveis (consulta da remessa ou Consulta pela NF com 30 dias)",
+    "Consulta: número da lista vira link para imprimir (quando o último EM ROTA tem até 30 dias)",
+    "Conferência: o botão do PDF mostra o motivo quando o Fraction não devolve o arquivo"
   ]
 }

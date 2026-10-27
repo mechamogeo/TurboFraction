@@ -1,11 +1,9 @@
 {
-  "versao": "1.5.6",
+  "versao": "1.5.7",
   "data": "2026-10-27",
   "download": "https://github.com/rameno-hash/TurboFraction-update/raw/main/turbofraction.zip",
   "notas": [
-    "Lista On Time: card 'Remessa incompleta' com volumes lidos e faltantes, e botão Excluir",
-    "Lista On Time: Processar dentro da janela, com a confirmação de volumes faltantes; a janela fica limpa para a próxima lista",
-    "Performance: campo Destino escolhido automaticamente",
-    "Painel de Pendências: células com 10 dias ou mais em vermelho forte"
+    "Lista On Time: botão Completar no card 'Remessa incompleta' (adiciona os volumes que faltam)",
+    "Lista de Entrega: botões Mostrar Status e Vencimento do Dia em vermelho"
   ]
 }

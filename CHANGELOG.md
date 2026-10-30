@@ -4,13 +4,18 @@ Histórico da TurboFraction. Cada versão abaixo repete as notas do commit em qu
 
 ## 1.5.9 — 2026-10-29
 
-Consulta da remessa (`/FractionWeb/jad/tracking`):
+### Consulta da remessa
 
-- O endereço do Local de Entrega vira busca no Google Maps, com nome, endereço e cidade.
-- Botão flutuante **Mensagem de rastreamento**, no centro inferior, com um **+** à esquerda. O clique copia um texto para o cliente e oferece abrir no WhatsApp:
+- O endereço do Local de Entrega abre no Google Maps com nome, endereço e cidade.
+- Botão flutuante **Mensagem de rastreamento**, no centro inferior, com **+** à esquerda. O clique copia um texto para o cliente e oferece abrir no WhatsApp:
   - primeira linha: número do conhecimento;
   - segunda linha: a última movimentação, em frase, e o lugar.
-- Quando a última operação é disponível para retirada (`DISPONIVEL PARA RETIRADA PICKUP`), o lugar da mensagem é o Local de Entrega (nome, endereço e cidade), em vez do nome da unidade no histórico.
+- Quando a última operação é disponível para retirada (`DISPONIVEL PARA RETIRADA PICKUP`), o lugar da mensagem é o Local de Entrega (nome, endereço e cidade), em vez da unidade do histórico.
+
+### Emissão
+
+- O botão **Limpar** fica vermelho, com ícone de alerta, e separado dos outros botões do rodapé.
+- O clique abre uma confirmação antes de apagar a emissão. No diálogo, o texto do Limpar fica escuro e o ícone de alerta vermelho.
 
 ## 1.5.8 — 2026-10-29
 

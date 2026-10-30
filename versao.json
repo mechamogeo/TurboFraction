@@ -5,6 +5,8 @@
   "notas": [
     "Consulta: o endereço do Local de Entrega abre no Google Maps (nome, endereço e cidade)",
     "Consulta: botão Mensagem de rastreamento copia o texto para o cliente e oferece abrir no WhatsApp",
-    "Consulta: em disponível para retirada (pickup), a mensagem usa o Local de Entrega em vez da unidade do histórico"
+    "Consulta: em disponível para retirada (pickup), a mensagem usa o Local de Entrega em vez da unidade do histórico",
+    "Emissão: botão Limpar fica vermelho, com ícone de alerta, separado dos outros botões",
+    "Emissão: o clique em Limpar pede confirmação antes de apagar"
   ]
 }
